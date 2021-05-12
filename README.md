@@ -1,0 +1,6 @@
+- 👋 Hi, I’m noa
+- 👀 I’m interested in machine learning & data science
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on machine learning projects
+- 📫 How to reach me : send email to amir.h.joghataei003@gmail.com
+- goodLuck
