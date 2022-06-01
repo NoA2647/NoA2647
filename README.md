@@ -1,4 +1,4 @@
-- 👋 Hi, I’m noa
+- 👋 Hi, I’m amir
 - 👀 I’m interested in machine learning & data science
 - ♥️ I love Linux & raspberry pi
 - 🌱 I’m currently learning deep learning
